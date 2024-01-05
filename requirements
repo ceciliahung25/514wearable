@@ -1,0 +1,10 @@
+## Software Dependencies
+
+To run this project, the following libraries need to be installed:
+
+- Adafruit SSD1306 Library
+- Adafruit MPU6050 Library
+- Adafruit BME280 Library
+- Adafruit Unified Sensor Library
+
+You can install these libraries through the Arduino Library Manager in the Arduino IDE or add them to your `platformio.ini` file if you are using PlatformIO.
